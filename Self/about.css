@@ -1,0 +1,21 @@
+.topnav a.active {
+    background-color: #0ee998;
+    color: white;
+}
+
+.cont {
+    text-align: center;
+    font-family: cursive;
+    color: aliceblue;
+}
+
+#ab-head {
+    font-size: 70px;
+}
+
+#ab {
+    font-size: 20px;
+    margin: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+}

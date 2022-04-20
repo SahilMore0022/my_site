@@ -1,0 +1,58 @@
+body{
+    background: url("imgs/bg.jpg");
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.topnav {
+    
+    overflow: hidden;
+    
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: rgb(185, 183, 183);
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #0ee998;
+    color: white;
+  }
+
+  /* Css for About me */
+  .cont{
+      text-align: center;
+      font-family:cursive; 
+      color: aliceblue;
+  }
+ 
+  #nm{
+      font-size: 60px
+  }
+  #mys{
+    font-size: 20px;
+    margin: 5px;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+   
+  
+  input[type=text]:focus {
+    width: 100%;
+  }
+
+  
